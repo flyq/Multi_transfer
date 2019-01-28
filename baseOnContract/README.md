@@ -7,6 +7,7 @@ pip3 install web3
 pip3 install ethereum
 
 solc '>=0.4.13,<0.5.0'
+solc依赖可以把bin/下面的solc设置成环境变量，ubuntu 18.04版本
 ```
 
 ## Modify
